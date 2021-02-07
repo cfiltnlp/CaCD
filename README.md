@@ -48,6 +48,6 @@ and cross-lingual models.
 ### NOTE
 In case of any query / issue please:
 * Open a github issue  **(OR)**
-* Send an email dipteshkanojia@gmail.com ( or prashaantsharmaa@gmail.com ) 
+* Send an email dipteshkanojia [AT] gmail [DOT] com ( or prashaantsharmaa [AT] gmail [DOT] com ) 
 
 We will try to resolve it as soon as we can. 

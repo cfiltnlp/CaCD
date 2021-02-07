@@ -33,5 +33,21 @@ and cross-lingual models.
 
 ## Proposed Models
 
+![Block Diagram](img/cacd-1.png)
+
+  
+![Proposed Model 1](img/cacd-2.png)
+
+![Proposed Model 2](img/cacd-3.png)
 
 ## Results
+
+![Results](img/cacd-4.png)
+
+
+### NOTE
+In case of any query / issue please:
+* Open a github issue  **(OR)**
+* Send an email dipteshkanojia@gmail.com ( or prashaantsharmaa@gmail.com ) 
+
+We will try to resolve it as soon as we can. 

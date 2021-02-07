@@ -48,6 +48,7 @@ and cross-lingual models.
 ### NOTE
 In case of any query / issue please:
 * Open a github issue  **(OR)**
-* Send an email dipteshkanojia [AT] gmail [DOT] com ( or prashaantsharmaa [AT] gmail [DOT] com ) 
+* Send an email with "[EACL2021 CaCD]" in the subject  to dipteshkanojia [AT] gmail [DOT] com ( or prashaantsharmaa [AT] gmail [DOT] com ) 
+  * *Sending the email with subject will make it easier for us to resolve the issue promptly.* 
 
-We will try to resolve it as soon as we can. 
+We will try our best to resolve it as soon as we can. 

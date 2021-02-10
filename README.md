@@ -45,6 +45,9 @@ and cross-lingual models.
 ![Results](img/cacd-4.png)
 
 
+### Setup
+Please refer [here](./Setup.md)
+
 ### NOTE
 In case of any query / issue please:
 * Open a github issue  **(OR)**

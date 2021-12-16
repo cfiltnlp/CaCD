@@ -1,8 +1,9 @@
 # Cognition-aware Cognate Detection
 
-This is the repository which contains our code for our EACL 2021 paper titled, "Cognition-aware Cognate Detection".
+The repository which contains our code for our EACL 2021 paper titled, "Cognition-aware Cognate Detection". This work was awarded a best paper honourable mention among the long papers during the conference.
 
-We ask the following pertinent questiosn with this work:
+
+We ask the following pertinent questions with this work:
 > “Can cognitive features be used to help the
 task of Cognate Detection?”
 

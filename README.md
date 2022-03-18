@@ -1,3 +1,7 @@
+<p align="center"><img src="logo.jpg" alt="logo" width="80" height="80"/></p>
+
+<hr/>
+
 # Cognition-aware Cognate Detection
 
 The repository which contains our code for our EACL 2021 paper titled, "Cognition-aware Cognate Detection". This work was awarded a best paper honourable mention among the long papers during the conference.

@@ -4,6 +4,13 @@
 
 # Cognition-aware Cognate Detection
 
+[![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/CaCD?style=flat-square)](https://github.com/cfiltnlp/CaCD/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/CaCD?style=flat-square)](https://github.com/cfiltnlp/CaCD/network)
+[![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/CaCD?style=flat-square)](https://github.com/cfiltnlp/CaCD/stargazers)
+[![GitHub license](https://img.shields.io/github/license/cfiltnlp/CaCD?style=flat-square)](https://github.com/cfiltnlp/CaCD/blob/main/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PeopleCentredAI?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/PeopleCentredAI)
+
 The repository which contains our code for our EACL 2021 paper titled, "Cognition-aware Cognate Detection". This work was awarded a best paper honourable mention among the long papers during the conference.
 
 

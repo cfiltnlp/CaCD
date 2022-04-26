@@ -8,18 +8,14 @@ The repository which contains our code for our EACL 2021 paper titled, "Cognitio
 
 
 We ask the following pertinent questions with this work:
-> “Can cognitive features be used to help the
-task of Cognate Detection?”
+> “Can cognitive features be used to help the task of Cognate Detection?”
 
 furthermore,
 
-> “Using gaze features collected on a small set
-of data points, can we predict the same features on
-a larger set of data points to alleviate the need for
-collecting gaze data?”
+> “Using gaze features collected on a small set of data points, can we predict the same features on a larger set of data points to alleviate the need for collecting gaze data?”
 
 The paper description, PDF, Slides and Video are available here:
-http://dipteshkanojia.github.io/publication/eacl-2021-cognate/
+[http://dipteshkanojia.github.io/publication/eacl-2021-cognate/](http://dipteshkanojia.github.io/publication/eacl-2021-cognate/)
 
 In case you use this data, code or research from this work, you are requested to please cite as follows:
 
